@@ -10,7 +10,7 @@ GhostBusters is a small platformer game made with pygame. The game uses tiles ba
 
 ## How to Download
 
-Download this project from here [Download GhostBusters](https://downgit.github.io/#/home?url=https://github.com/pyGuru123/Python-Games/tree/master/GhostBusters)
+Download this project from here [Download GhostBusters](https://github.com/satyasri10501/ghost_busters_game.git)
 
 ## Requirements
 
