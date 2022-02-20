@@ -1,0 +1,4 @@
+
+                                This game is created by P.Bala Satya Sri.
+                             This is a small platformer game developed using python.
+                                        -----------play and have fun----------------
